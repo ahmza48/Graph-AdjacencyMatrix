@@ -1,0 +1,18 @@
+﻿  ADJACENCYMATRIX.cpp
+c:\users\ahmza\source\repos\graph-adjacencymatrix\graph-adjacencymatrix\adjacencymatrix.cpp(93): warning C4018: '<': signed/unsigned mismatch
+  c:\users\ahmza\source\repos\graph-adjacencymatrix\graph-adjacencymatrix\adjacencymatrix.cpp(90): note: while compiling class template member function 'bool ADJACENCYMATRIX<int>::doesPathExist(std::string)'
+  c:\users\ahmza\source\repos\graph-adjacencymatrix\graph-adjacencymatrix\adjacencymatrix.h(24): note: see reference to class template instantiation 'ADJACENCYMATRIX<int>' being compiled
+c:\users\ahmza\source\repos\graph-adjacencymatrix\graph-adjacencymatrix\adjacencymatrix.cpp(102): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+c:\users\ahmza\source\repos\graph-adjacencymatrix\graph-adjacencymatrix\adjacencymatrix.h(24): warning C4661: 'ADJACENCYMATRIX<int>::ADJACENCYMATRIX(int)': no suitable definition provided for explicit template instantiation request
+  c:\users\ahmza\source\repos\graph-adjacencymatrix\graph-adjacencymatrix\adjacencymatrix.h(17): note: see declaration of 'ADJACENCYMATRIX<int>::ADJACENCYMATRIX'
+c:\users\ahmza\source\repos\graph-adjacencymatrix\graph-adjacencymatrix\adjacencymatrix.h(24): warning C4661: 'ADJACENCYMATRIX<int>::ADJACENCYMATRIX(void)': no suitable definition provided for explicit template instantiation request
+  c:\users\ahmza\source\repos\graph-adjacencymatrix\graph-adjacencymatrix\adjacencymatrix.h(15): note: see declaration of 'ADJACENCYMATRIX<int>::ADJACENCYMATRIX'
+c:\users\ahmza\source\repos\graph-adjacencymatrix\graph-adjacencymatrix\adjacencymatrix.h(24): warning C4661: 'ADJACENCYMATRIX<int>::~ADJACENCYMATRIX(void)': no suitable definition provided for explicit template instantiation request
+  c:\users\ahmza\source\repos\graph-adjacencymatrix\graph-adjacencymatrix\adjacencymatrix.h(16): note: see declaration of 'ADJACENCYMATRIX<int>::~ADJACENCYMATRIX'
+c:\users\ahmza\source\repos\graph-adjacencymatrix\graph-adjacencymatrix\adjacencymatrix.h(24): warning C4661: 'void ADJACENCYMATRIX<int>::initializeGraph(void)': no suitable definition provided for explicit template instantiation request
+  c:\users\ahmza\source\repos\graph-adjacencymatrix\graph-adjacencymatrix\adjacencymatrix.h(18): note: see declaration of 'ADJACENCYMATRIX<int>::initializeGraph'
+c:\users\ahmza\source\repos\graph-adjacencymatrix\graph-adjacencymatrix\adjacencymatrix.h(24): warning C4661: 'bool ADJACENCYMATRIX<int>::doesPathExist(std::string)': no suitable definition provided for explicit template instantiation request
+  c:\users\ahmza\source\repos\graph-adjacencymatrix\graph-adjacencymatrix\adjacencymatrix.h(19): note: see declaration of 'ADJACENCYMATRIX<int>::doesPathExist'
+  Generating Code...
+  Graph-AdjacencyMatrix.vcxproj -> C:\Users\ahmza\source\repos\Graph-AdjacencyMatrix\Debug\Graph-AdjacencyMatrix.exe
